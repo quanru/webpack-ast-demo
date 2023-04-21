@@ -1,5 +1,11 @@
 # Getting Started
 
+## Related Issue & MR
+
+- [AST was illegal after webpack process](https://github.com/webpack/webpack/issues/17030)
+- [fix: avoid modify ast params object reference](https://github.com/webpack/webpack/pull/17032)
+
+## Demo Description
 
 We say a entry file [src/index.js](./src/index.js), when bundle with webpack, there are two version ast:
 
